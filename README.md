@@ -1,5 +1,5 @@
-📘 Titanic Survival Prediction – Improved Model Accuracy
-📌 Project Overview
+ Titanic Survival Prediction – Improved Model Accuracy
+ Project Overview
 
 This project focuses on predicting passenger survival on the Titanic dataset.
 It was developed as part of a Data Science traineeship project where the goal was to improve model accuracy through data preprocessing, feature engineering, and model comparison.
@@ -16,7 +16,7 @@ Scikit-learn (machine learning)
 
 XGBoost (advanced modeling)
 
-📂 Project Workflow
+ Project Workflow
 
 Data Preprocessing
 
@@ -46,7 +46,7 @@ Hyperparameter Tuning
 
 Optimized Random Forest parameters → achieved up to ~88% accuracy
 
-📊 Visualizations
+ Visualizations
 
 Survival by Gender
 
@@ -58,14 +58,14 @@ Correlation heatmap
 
 Feature importance (Random Forest / XGBoost)
 
-📈 Results
+ Results
 Model	Accuracy (approx.)
 Logistic Regression	75–78%
 Random Forest	80–85%
 XGBoost	82–86%
 Tuned Random Forest	85–88%
 
-✅ Accuracy improved significantly from baseline Logistic Regression to tuned Random Forest/XGBoost.
+ Accuracy improved significantly from baseline Logistic Regression to tuned Random Forest/XGBoost.
 
 📎 How to Run
 
@@ -84,11 +84,10 @@ Run the Jupyter Notebook:
 
 jupyter notebook Titanic_Project.ipynb
 
-🙌 Author
+Author
 
 BUNNY (Bhanu Prakash Bondhala)
-📧 [mr.bunny3696@gmail.com]
-💼 [https://www.linkedin.com/in/bhanu-prakash-bondhala-a4a695255/]
+[mr.bunny3696@gmail.com] [https://www.linkedin.com/in/bhanu-prakash-bondhala-a4a695255/]
 
 🚀 Future Work
 
